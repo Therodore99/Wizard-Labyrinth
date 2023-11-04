@@ -10,14 +10,10 @@
   <p align="center">
     The game is a survival game developed in Java, with graphics using the Processing library and dependency management via Gradle. Players control a wizard navigating through the map. The goal of the game is to avoid enemies known as sprites and their attacks, and to reach the exit to advance to the next level.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Therodore99/Wizard-Labyrinth"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
