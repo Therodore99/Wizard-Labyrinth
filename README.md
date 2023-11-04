@@ -88,9 +88,8 @@ This project is a survival game developed in Java, with graphics using the Proce
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+### How to play
+The program detects the player's actions on the keyboard. When the player presses the up, down, left and right keys, the wizard moves according to the direction. When the player presses the space bar, the wizard fires fireballs. gremlins are destroyed when the fireball touches any part of the gremlins. Players can also press the Tab key to launch a frozen puck. The balls freeze gremlins so they can't move.After 10 seconds (600 frames), the map generates a powerup based on the location specified in the level1.txt file. When wizard touches powerup, its speed immediately increases to 4 pixels per frame for 600 frames. The user can view the remaining time of the acceleration effect through the progress bar in the bottom bar. When used by wizard, powerup regenerates at a random legal location (without any walls) on the current map.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
