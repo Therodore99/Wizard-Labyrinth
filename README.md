@@ -66,19 +66,16 @@ This project is a survival game developed in Java, with graphics using the Proce
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Java JDK version 8 or higher
 * Gradle
   ```sh
   $ brew install gradle
   ```
 
-### Running
+### Installation
 1. Download all and unzip the folder
 2. Use the gradle command to run
    ```sh
