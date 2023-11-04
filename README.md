@@ -5,10 +5,9 @@
 <br />
 <div align="center">
   
-<h3 align="center">Wizard-Labyrinth</h3>
+<h1 align="center">Wizard-Labyrinth</h1>
 
   <p align="center">
-    The game is a survival game developed in Java, with graphics using the Processing library and dependency management via Gradle. Players control a wizard navigating through the map. The goal of the game is to avoid enemies known as sprites and their attacks, and to reach the exit to advance to the next level.
     <br />
     <a href="https://github.com/Therodore99/Wizard-Labyrinth"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +51,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This project is a survival game developed in Java, with graphics using the Processing library and dependency management via Gradle. Players control a wizard navigating through the map. The goal of the game is to avoid enemies known as sprites and their attacks, and to reach the exit to advance to the next level.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
