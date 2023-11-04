@@ -12,7 +12,6 @@
     <a href="https://github.com/Therodore99/Wizard-Labyrinth"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
 </div>
 
