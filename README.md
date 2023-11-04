@@ -70,7 +70,7 @@ This project is a survival game developed in Java, with graphics using the Proce
   $ brew install gradle
   ```
 
-### Installation
+### Depolyment
 1. Download all and unzip the folder
 2. Use the gradle command to run
    ```sh
