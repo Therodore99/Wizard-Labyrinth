@@ -80,8 +80,8 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Running
-
-1. Use the gradle command to run
+1. Download all and unzip the folder
+2. Use the gradle command to run
    ```sh
    gradle run
    ```
